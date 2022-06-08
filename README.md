@@ -7,6 +7,8 @@
   Gatsby minimal starter
 </h1>
 
+https://www.learnhunor.xyz
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
